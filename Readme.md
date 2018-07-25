@@ -1,7 +1,7 @@
 # Личный проект «Пинк» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Игорь Посунько](https://up.htmlacademy.ru/adaptive/14/user/6).
-* Наставник: [Алексей Малейков](https://up.htmlacademy.ru/adaptive/14/user/4839).
+* Наставник: [Дмитрий Безуглый](https://up.htmlacademy.ru/adaptive/14/user/5879).
 
 ---
 
